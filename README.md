@@ -1,4 +1,4 @@
 # Weather Icons
 
-  Icons for [where's hot now?](whereshotnow.com)
+  Icons for [where's hot now?](http://whereshotnow.com)
 
