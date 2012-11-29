@@ -3,16 +3,16 @@
   Icons for [where's hot now?](http://whereshotnow.com)
 
 ## Cloudy
-!(https://raw.github.com/tomkp/weather-icons/master/png/cloudy.png)
+![cloudy](https://raw.github.com/tomkp/weather-icons/master/png/cloudy.png)
 
 ## Drizzle
-!(https://raw.github.com/tomkp/weather-icons/master/png/drizzle.png)
+![drizzle](https://raw.github.com/tomkp/weather-icons/master/png/drizzle.png)
 
 ## Foggy
-!(https://raw.github.com/tomkp/weather-icons/master/png/foggy.png)
+![foggy](https://raw.github.com/tomkp/weather-icons/master/png/foggy.png)
 
 ## Heavy Rain Shower
-![z](https://raw.github.com/tomkp/weather-icons/master/png/heavy rain shower.png)
+![heavy rain shower](https://raw.github.com/tomkp/weather-icons/master/png/heavy%20rain%20shower.png)
 
 ## Heavy Rain
 !(https://raw.github.com/tomkp/weather-icons/master/png/heavy rain.png)
