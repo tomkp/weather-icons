@@ -24,58 +24,55 @@
 ![heavy snow showers](https://raw.github.com/tomkp/weather-icons/master/png/heavy%20snow%20showers.png)
 
 ## Heavy Snow
-!(https://raw.github.com/tomkp/weather-icons/master/png/heavy%20snow.png)
+![heavy snow](https://raw.github.com/tomkp/weather-icons/master/png/heavy%20snow.png)
 
 ## Light Rain Shower
-!(https://raw.github.com/tomkp/weather-icons/master/png/light%20rain%20shower.png)
+![light rain showers](https://raw.github.com/tomkp/weather-icons/master/png/light%20rain%20shower.png)
 
 ## Light Rain
-!(https://raw.github.com/tomkp/weather-icons/master/png/light%20rain.png)
+![light rain](https://raw.github.com/tomkp/weather-icons/master/png/light%20rain.png)
 
 ## Light Showers
-!(https://raw.github.com/tomkp/weather-icons/master/png/light showers.png)
+![light showers](https://raw.github.com/tomkp/weather-icons/master/png/light%20showers.png)
 
 ## Light Snow Showers
-!(https://raw.github.com/tomkp/weather-icons/master/png/light snow showers.png)
+![light snow showers](https://raw.github.com/tomkp/weather-icons/master/png/light%20snow%20showers.png)
 
 ## Light Snow
-!(https://raw.github.com/tomkp/weather-icons/master/png/light snow.png)
+![light snow](https://raw.github.com/tomkp/weather-icons/master/png/light%20snow.png)
 
 ## Overcast
-!(https://raw.github.com/tomkp/weather-icons/master/png/overcast.png)
-
-## Overcast
-!(https://raw.github.com/tomkp/weather-icons/master/png/overcast.png)
+![overcast](https://raw.github.com/tomkp/weather-icons/master/png/overcast.png)
 
 ## Partially Cloudy
-!(https://raw.github.com/tomkp/weather-icons/master/png/partially cloudy.png)
+![partially cloudy](https://raw.github.com/tomkp/weather-icons/master/png/partially%20cloudy.png)
 
 ## Showers
-!(https://raw.github.com/tomkp/weather-icons/master/png/showers.png)
+![showers](https://raw.github.com/tomkp/weather-icons/master/png/showers.png)
 
 ## Sleet Showers
-!(https://raw.github.com/tomkp/weather-icons/master/png/sleet showers.png)
+![sleet showers](https://raw.github.com/tomkp/weather-icons/master/png/sleet%20showers.png)
 
 ## Sleet
-!(https://raw.github.com/tomkp/weather-icons/master/png/sleet.png)
+![sleet](https://raw.github.com/tomkp/weather-icons/master/png/sleet.png)
 
 ## Snow
-!(https://raw.github.com/tomkp/weather-icons/master/png/snow.png)
+![snow](https://raw.github.com/tomkp/weather-icons/master/png/snow.png)
 
 ## Sun and Showers
-!(https://raw.github.com/tomkp/weather-icons/master/png/sun and showers.png)
+![sun and showers](https://raw.github.com/tomkp/weather-icons/master/png/sun%20and%20showers.png)
 
 ## Sunny Intervals
-!(https://raw.github.com/tomkp/weather-icons/master/png/sunny intervals.png)
+![sunny intervals](https://raw.github.com/tomkp/weather-icons/master/png/sunny%20intervals.png)
 
 ## Sunny
-!(https://raw.github.com/tomkp/weather-icons/master/png/sunny.png)
+![sunny](https://raw.github.com/tomkp/weather-icons/master/png/sunny.png)
 
 ## Thunder
-!(https://raw.github.com/tomkp/weather-icons/master/png/thunder.png)
+![thunder](https://raw.github.com/tomkp/weather-icons/master/png/thunder.png)
 
 ## Thundery
-!(https://raw.github.com/tomkp/weather-icons/master/png/thundery showers.png)
+![thundery](https://raw.github.com/tomkp/weather-icons/master/png/thundery%20showers.png)
 
 
 
